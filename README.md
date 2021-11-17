@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nunesmanassa
+- 👋 Hi, I’m @nunesmanassa
 - 👀 I’m interested in html, javascript,css,phyton
 - 🌱 I’m currently learning rede, phyton, html e css
 - 💞️ I’m looking to collaborate on ...
